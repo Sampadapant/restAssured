@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T17:47:12 CDT" name="Default suite" finished-at="2023-05-22T17:47:17 CDT" duration-ms="4767">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T17:47:12 CDT" name="Default test" finished-at="2023-05-22T17:47:17 CDT" duration-ms="4767">
+      <class name="practiceProject.test_get">
+        <test-method signature="test_1()[pri:0, instance:practiceProject.test_get@484970b0]" started-at="2023-05-22T17:47:12 CDT" name="test_1" finished-at="2023-05-22T17:47:16 CDT" duration-ms="3393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+        <test-method signature="test_2()[pri:0, instance:practiceProject.test_get@484970b0]" started-at="2023-05-22T17:47:16 CDT" name="test_2" finished-at="2023-05-22T17:47:16 CDT" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_2 -->
+        <test-method signature="test_3()[pri:0, instance:practiceProject.test_get@484970b0]" started-at="2023-05-22T17:47:16 CDT" name="test_3" finished-at="2023-05-22T17:47:16 CDT" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_3 -->
+        <test-method signature="test_4()[pri:0, instance:practiceProject.test_get@484970b0]" started-at="2023-05-22T17:47:16 CDT" name="test_4" finished-at="2023-05-22T17:47:17 CDT" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_4 -->
+        <test-method signature="test_5()[pri:0, instance:practiceProject.test_get@484970b0]" started-at="2023-05-22T17:47:17 CDT" name="test_5" finished-at="2023-05-22T17:47:17 CDT" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_5 -->
+      </class> <!-- practiceProject.test_get -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
